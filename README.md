@@ -2,7 +2,7 @@ Clone the Repository: First, clone the repository to your local machine:
 
 bash
 Copy
-git clone https://github.com/.git
+git clone https://github.com/.git](https://github.com/vk65/Haystek.git
 cd your-repository-name
 Open the Xcode Project: Open the .xcodeproj file in Xcode:
 
